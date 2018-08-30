@@ -16,3 +16,8 @@ in tensorlayer.
 For further info please contact me on nitheesh@asu.edu or +1-480-498-1497
 
 If you want to increase the dataset you can dig in wiki_crop which has about 65000+ images.
+
+https://drive.google.com/open?id=1wwMQTytwt0T7mR71VWzoorjcudtzM9qG you can find the forled for these files here
+
+wiki_crop folder can be found here "https://drive.google.com/open?id=1essmtKxRrwtn9kGwGxqF_B-WRL104W3z"
+
